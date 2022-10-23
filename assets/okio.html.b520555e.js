@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c as a,a as e,e as r}from"./app.6a6b0b18.js";const c={},s=e("h1",{id:"okio",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#okio","aria-hidden":"true"},"#"),r(" OKIO")],-1),i=[s];function n(_,d){return t(),a("div",null,i)}const f=o(c,[["render",n],["__file","okio.html.vue"]]);export{f as default};
